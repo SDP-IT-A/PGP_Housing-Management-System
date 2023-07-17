@@ -1,0 +1,1 @@
+abt.resizable(False, False)
